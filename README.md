@@ -14,7 +14,7 @@
 ## 📌 Projects  
 ### 🌍 **Holiday-Z – Travel Listing Platform**  
 A **travel listing** web application built with **Node.js, Express.js, MongoDB Atlas, and EJS** to explore destinations and manage listings.  
-🔗 **Live Demo:** [Holiday-Z](https://holiday-z.onrender.com)  
+🔗 **Live Demo:** [Holiday-Z](https://holiday-z.onrender.com/listings)  
 🔗 **GitHub Repo:** [Holiday-Z on GitHub](https://github.com/darshanhalesh/holiday-z)  
 
 ### 🚀 **Portfolio Website**  
