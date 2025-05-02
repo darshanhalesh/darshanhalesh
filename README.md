@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Darshan K H  
-### 🚀 Passionate Full Stack Developer  
+### 🚀 Passionate software Developer from 🇮🇳
 
 🔭 **Currently Working On:** System Design  
 🌱 **Currently Learning:** TypeScript  
