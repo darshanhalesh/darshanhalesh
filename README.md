@@ -1,15 +1,34 @@
+# 👋 Hi, I'm Darshan K H  
+### 🚀 Passionate Full Stack Developer  
 
+🔭 **Currently Working On:** System Design  
+🌱 **Currently Learning:** TypeScript  
+💬 **Ask Me About:** Backend, Frontend, DSA  
+📫 **How to Reach Me:** [darshanhalesh6@gmail.com](mailto:darshanhalesh6@gmail.com)  
+🔗 **Checkout My LeetCode Profile:** [LeetCode](https://leetcode.com/u/darshan_halesh/)  
+💻 **All of My Projects Are Available On:** [GitHub](https://github.com/darshanhalesh?tab=repositories)  
+💼 **Connect with Me on LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/darshan-halesh-021047260/)  
 
-- 🔭 I’m currently working on ...system design
-- 🌱 I’m currently learning ...typescript
-- checkout my leetcode profile
--💻 All of my projects are available on
-- 💬 Ask me about ...backend frontend dsa
-- 📫 How to reach me: ...darshanhalesh6@gmail.com
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanhalesh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhalesh&layout=compact&theme=radical)
+## 📌 Projects  
+### 🌍 **Holiday-Z – Travel Listing Platform**  
+A **travel listing** web application built with **Node.js, Express.js, MongoDB Atlas, and EJS** to explore destinations and manage listings.  
+🔗 **Live Demo:** [Holiday-Z](https://holiday-z.onrender.com)  
+🔗 **GitHub Repo:** [Holiday-Z on GitHub](https://github.com/darshanhalesh/holiday-z)  
 
+### 🚀 **Portfolio Website**  
+My personal portfolio showcasing my work and skills.  
+🔗 **Live Demo:** [Portfolio](https://darshankh.vercel.app)  
+🔗 **GitHub Repo:** [Portfolio Repo](https://github.com/darshanhalesh/portfolio)  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanhalesh&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhalesh&layout=compact&theme=radical)  
+
+---
 
 ## 🛠️ Languages & Tools  
 
@@ -42,5 +61,3 @@
 ### 🔹 API Testing & Tools  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-
-
