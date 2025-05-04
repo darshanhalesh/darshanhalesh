@@ -3,8 +3,8 @@
 
 ### 🚀 Passionate Software Developer from 🇮🇳
 
-🔭 **Currently Working On:** System Design  
-🌱 **Currently Learning:** TypeScript  
+🔭 **Currently Working On:** TypeScript 
+🌱 **Currently Learning:** System Design
 💬 **Ask Me About:** Backend, Frontend, Competitive Programming  
 📫 **How to Reach Me:** [darshanhalesh6@gmail.com](mailto:darshanhalesh6@gmail.com)  
 🔗 **Checkout My LeetCode Profile:** [LeetCode](https://leetcode.com/u/darshan_halesh/)  
