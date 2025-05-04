@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Darshan K H  
-### 🚀 Passionate software Developer from 🇮🇳
+![Made in India](https://img.shields.io/badge/Made%20in-%F0%9F%87%AE%F0%9F%87%B3-orange)
+
+### 🚀 Passionate Software Developer from 🇮🇳
 
 🔭 **Currently Working On:** System Design  
 🌱 **Currently Learning:** TypeScript  
-💬 **Ask Me About:** Backend, Frontend, competative programing 
+💬 **Ask Me About:** Backend, Frontend, Competitive Programming  
 📫 **How to Reach Me:** [darshanhalesh6@gmail.com](mailto:darshanhalesh6@gmail.com)  
 🔗 **Checkout My LeetCode Profile:** [LeetCode](https://leetcode.com/u/darshan_halesh/)  
 💻 **All of My Projects Are Available On:** [GitHub](https://github.com/darshanhalesh?tab=repositories)  
@@ -12,6 +14,7 @@
 ---
 
 ## 📌 Projects  
+
 ### 🌍 **Holiday-Z – Travel Listing Platform**  
 A **travel listing** web application built with **Node.js, Express.js, MongoDB Atlas, and EJS** to explore destinations and manage listings.  
 🔗 **Live Demo:** [Holiday-Z](https://holiday-z.onrender.com/listings)  
@@ -31,8 +34,6 @@ My personal portfolio showcasing my work and skills.
 ---
 
 ## 🛠️ Languages & Tools  
-
-## 🚀 Tech Stack
 
 ### 🔹 Programming Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
