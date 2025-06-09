@@ -3,7 +3,7 @@
 
 ### 🚀 Passionate Software Developer from 🇮🇳
 
-🔭 **Currently Working On:** TypeScript 
+
 🌱 **Currently Learning:** System Design
 💬 **Ask Me About:** Backend, Frontend, Competitive Programming  
 📫 **How to Reach Me:** [darshanhalesh6@gmail.com](mailto:darshanhalesh6@gmail.com)  
