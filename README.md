@@ -22,7 +22,7 @@ A **travel listing** web application built with **Node.js, Express.js, MongoDB A
 
 ### 🚀 **Portfolio Website**  
 My personal portfolio showcasing my work and skills.  
-🔗 **Live Demo:** [Portfolio](https://darshankh.vercel.app)  
+🔗 **Live Demo:** [Portfolio](https://darshan-k-h.netlify.app/)  
 🔗 **GitHub Repo:** [Portfolio Repo](https://github.com/darshanhalesh/portfolio)  
 
 ---
