@@ -1,101 +1,122 @@
-<h1 align="center">Hi there 👋, I'm Darshan K H</h1>
-<p align="center">💻 Full Stack Developer | ⚙️ Backend Engineer | 📦 API Builder | 🚀 Dockerized Everything</p>
+<h1 align="center">Hi there 👋, I'm <span style="color:#0F52BA">Darshan K H</span></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/darshan-halesh-021047260"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/darshanhalesh"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></a>
-  <a href="mailto:darshanhalesh6@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/u/darshan_halesh/"><img src="https://img.shields.io/badge/-LeetCode-yellow?style=flat-square&logo=leetcode"></a>
-  <a href="https://darshan-k-h.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=vercel"></a>
+  💻 Full Stack Developer &nbsp;|&nbsp; ⚙️ Backend Engineer &nbsp;|&nbsp; 🧠 System Design Enthusiast &nbsp;|&nbsp; 🚀 DevOps Learner
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/darshan-halesh-021047260" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://github.com/darshanhalesh" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
+  </a>
+  <a href="mailto:darshanhalesh6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/darshan_halesh/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-yellow?style=flat-square&logo=leetcode">
+  </a>
+  <a href="https://darshan-k-h.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=vercel">
+  </a>
+  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/-My%20Resume-302f2f?style=flat-square&logo=readthedocs&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-name: Darshan K H  
-role: Aspiring Software Developer (Backend Focus)  
-university: Garden City University, Bangalore  
-interests:  
-  - API Design  
-  - System Design  
-  - DevOps Pipelines  
-currently_learning: System Design, Scalable Architectures  
-leetcode_solved: 200+
+```yaml
+name: Darshan K H
+role: Full Stack Developer (Backend Focused)
+university: Garden City University, Bangalore
+skills:
+  - API Development
+  - Scalable Backend Systems
+  - CI/CD & Dockerization
+  - Real-time Applications
+currently_learning:
+  - System Design
+  - Distributed Architectures
+leetcode_solved: 200+ 🔥
+🚀 Featured Projects
+📘 Book ur Doctor – Online Appointment + Video Calls
+📄 Description: Book video-based doctor appointments with real-time scheduling.
 
----
+🛠 Tech Stack:
 
-## 💼 Featured Projects
+Next.js Prisma Clerk Vonage API Docker Tailwind CSS
 
-<details>
-<summary>📘 Book ur Doctor – Online Appointment + Video Calls</summary>
+✅ Features:
 
-- 🛠 **Stack:** Next.js, Prisma, Clerk, Vonage API, Docker  
-- ✅ CI/CD with GitHub Actions (Deploy time ⬇️ from 10m → 2m)  
-- 🔗 [Live Demo](https://book-my-doctor-nu.vercel.app) • [GitHub](https://github.com/darshanhalesh/book-my-doctor)
-</details>
+CI/CD with GitHub Actions (deploy time ⬇️ from 10m → 2m)
 
-<details>
-<summary>📈 zScrum – Agile Scrum Board for Teams</summary>
+Secure patient login, doctor dashboard, and video call integration.
 
-- 🧩 Real-time task tracking with PostgreSQL & Docker  
-- 🧑‍🤝‍🧑 Used by 5+ organizations for team collaboration  
-- 🔗 [Live Demo](https://zscrum-orpin.vercel.app) • [GitHub](https://github.com/darshanhalesh/zscrum)
-</details>
+🔗 Live Demo | GitHub
 
-<details>
-<summary>🌍 Holiday-Z – Travel Listing Platform</summary>
+📈 zScrum – Agile Scrum Board for Teams
+📄 Description: Real-time task management board for teams practicing Agile.
 
-- 🖼 Integrated image CDN via Cloudinary  
-- 🔐 Secure login with Passport.js, JWT  
-- 📈 500+ Monthly Active Users  
-- 🔗 [Live Demo](https://holiday-z.onrender.com/listings) • [GitHub](https://github.com/darshanhalesh/holiday-z)
-</details>
+🛠 Tech Stack:
 
-<details>
-<summary>🌐 Portfolio Website</summary>
+PostgreSQL Node.js Express.js Docker EJS Socket.IO
 
-- 🖥 My developer showcase + personal site  
-- 💡 Hosted on Netlify  
-- 🔗 [Live Site](https://darshan-k-h.netlify.app) • [GitHub](https://github.com/darshanhalesh/portfolio)
-</details>
+✅ Features:
 
----
+Kanban-style task board, team-based project tracking.
 
-## 🧰 Tech Stack
+Used by 5+ organizations for team collaboration.
 
-**Languages:** `JavaScript` `TypeScript` `C++` `Python` `SQL`  
-**Frontend:** `React.js` `Next.js` `Tailwind CSS` `Bootstrap`  
-**Backend & API:** `Node.js` `Express.js` `Prisma` `REST API` `Socket.IO`  
-**Databases:** `PostgreSQL` `MongoDB` `MySQL`  
-**Authentication:** `JWT` `OAuth2` `Passport.js` `Clerk`  
-**DevOps & Deployment:** `Docker` `GitHub Actions` `Vercel` `Render` `Netlify`  
-**Tools:** `Postman` `Cloudinary` `Git` `Agile`
+🔗 Live Demo | GitHub
 
----
+🌍 Holiday-Z – Travel Listing Platform
+📄 Description: Explore, list, and manage holiday rentals and travel spots.
 
-## 📊 GitHub Analytics
+🛠 Tech Stack:
 
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=darshanhalesh&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanhalesh&theme=tokyonight" />
-</p>
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhalesh&layout=compact&theme=tokyonight" />
-</p>
+MongoDB Express.js Node.js EJS Cloudinary Passport.js JWT
 
----
+✅ Features:
 
-## 🏆 GitHub Trophy Cabinet
+Secure login, add/manage listings, image CDN, and dynamic search filters.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darshanhalesh&theme=onedark&no-frame=true&title=MultiLanguage,Commits,Stars,Repositories,Followers"/>
-</p>
+500+ Monthly Active Users.
 
----
+🔗 Live Demo | GitHub
 
-## 📈 Profile Visitors
+🌐 Portfolio Website
+📄 Description: My personal portfolio showcasing projects and skills.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darshanhalesh&label=Profile+Views&color=blueviolet&style=flat" alt="darshanhalesh" />
-</p>
+🛠 Tech Stack:
+
+React.js Tailwind CSS Framer Motion Netlify
+
+✅ Features:
+
+Animated transitions, responsive layout, section-wise scroll navigation.
+
+🔗 Live Site | GitHub
+
+🧰 Tech Stack Overview
+txt
+Copy
+Edit
+💻 Languages:       JavaScript | TypeScript | Python | C++ | SQL
+🖼️ Frontend:        React.js | Next.js | Tailwind CSS | Bootstrap
+🧠 Backend:         Node.js | Express.js | Prisma | REST APIs | Socket.IO
+🗄️ Databases:        PostgreSQL | MongoDB | MySQL
+🔐 Auth & Security:  JWT | OAuth2 | Passport.js | Clerk
+⚙️ DevOps & CI/CD:   Docker | GitHub Actions | Vercel | Render | Netlify
+🧪 Tools:            Postman | Cloudinary | Git | Agile Methodologies
+📊 GitHub Stats
+<p align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=darshanhalesh&show_icons=true&theme=radical" /> <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanhalesh&theme=radical" /> </p> <p align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhalesh&layout=compact&theme=radical" /> </p>
+🏆 GitHub Trophy Cabinet
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=darshanhalesh&theme=gruvbox&no-frame=true&title=MultiLanguage,Commits,Stars,Repositories,Followers" /> </p>
+📄 Check Out My Resume
+<p align="center"> <a href="YOUR_RESUME_LINK_HERE" target="_blank"> <img src="https://img.shields.io/badge/-View%20Resume-black?style=for-the-badge&logo=readthedocs&logoColor=white" /> </a> </p>
+📈 Profile Visitors
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=darshanhalesh&label=Profile+Views&color=blueviolet&style=flat" /> </p> ``
