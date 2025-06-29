@@ -166,13 +166,6 @@
 
 ---
 
-## 🏆 GitHub Trophy Cabinet
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darshanhalesh&theme=onedark&no-frame=true&title=MultiLanguage,Commits,Stars,Repositories,Followers"/>
-</p>
-
----
 
 ## 📈 Profile Visitors
 
