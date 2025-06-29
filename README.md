@@ -88,6 +88,19 @@
 
 </div>
 
+<!-- Example: Animated badge for a skill (shows live update, not true animation, but dynamic) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-React.js-61DBFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+
+<!-- Example: Animated GIF for a skill or project (optional, add a relevant GIF for each skill or project) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVzNnRjY3B5dXp1d2V6Y3F2eDFtYzRqMTRhZ3NqZ3A3c3V5c2RkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Coding Animation">
+</p>
+
 ---
 
 ## 📊 GitHub Analytics
@@ -96,7 +109,6 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=darshanhalesh&show_icons=true&theme=tokyonight" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanhalesh&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhalesh&layout=compact&theme=tokyonight" />
 </p>
