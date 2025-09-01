@@ -28,7 +28,7 @@
   - ⚙️ DevOps Pipelines  
 - **Currently Learning:** System Design, Scalable Architectures  
 - **LeetCode Solved:** 200+  
-- **Resume:** [📄 View Resume](https://drive.google.com/file/d/1FOiwkZMWaki4xOhUcemcmQDiYt6Dryqv/view?usp=drivesdk)
+
 
 ---
 
